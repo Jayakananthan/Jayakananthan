@@ -152,7 +152,7 @@ I am interested in collaborating on projects related to:
 ## 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/jayakananthan-mariyapillai/
-- **Portfolio:** Add your GitHub Pages website
+- **Portfolio:** https://github.com/Jayakananthan
 - **Email:** mjeya81@gmail.com and m.jayakananthan@cgiar.org
 - **Location:** Sri Lanka
 
